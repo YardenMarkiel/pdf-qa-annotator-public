@@ -10,5 +10,9 @@
             "32": "images/icon32.png",
             "48": "images/icon48.png"
         }
+    },
+    "permissions": [],
+    "content_security_policy": {
+        "extension_pages": "script-src 'self'; object-src 'self'"
     }
 }
